@@ -164,6 +164,16 @@
                 <artifactId>micrometer-core</artifactId>
                 <version>${micrometer-registry-prometheus.version}</version>
             </dependency>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-config-server</artifactId>
+                <version>${spring-cloud.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-config-client</artifactId>
+                <version>${spring-cloud.version}</version>
+            </dependency>
         </dependencies>
 
 
