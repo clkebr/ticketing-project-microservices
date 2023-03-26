@@ -10,7 +10,7 @@ spring:
           uri: https://github.com/clkebr/ticketing-project-microservices-config
           default-label: master
           username: clkebr
-          password: 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
+          password: '{cipher}ddf0ac6d6437d681f425c41c4b2f26db2903377f40afe5057dd8756d1340b76cf00e1114917f90d9940dbeda7c22e7aeeecc4c5bcd92c56c9424511a961e2c3d'
       fail-fast: true
 
 encrypt:
